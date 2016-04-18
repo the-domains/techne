@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[techne]]></title>
         <description><![CDATA[techne]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/techne/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 19:58:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Apr 2016 20:11:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/techne/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Periscope - SELECT SQL FROM Periscope WHERE get realtime charts.</p>]]></description>
+            <link>https://thegrid.ai/techne/periscope-select-sql-from-periscope-where-get-realtime-cha/index.html</link>
+            <guid isPermaLink="false">fbf6786c-b5d4-4e58-8395-a3dcd49cf259</guid>
+            <pubDate>Mon, 18 Apr 2016 20:10:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[10101010101 Blog]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5033049c43c49b71cb8b9ac5181de8bdb3420932.jpg" alt="" title="">]]></description>
-            <link>undefined10101010101-blog/index.html</link>
+            <link>https://thegrid.ai/techne/10101010101-blog/index.html</link>
             <guid isPermaLink="false">704930b3-1f6f-4c71-a307-d1aeee9d7f09</guid>
             <pubDate>Mon, 18 Apr 2016 19:58:35 GMT</pubDate>
         </item>
